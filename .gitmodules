@@ -1,0 +1,3 @@
+[submodule "cyblib"]
+	path = cyblib
+	url = https://github.com/JonathanDotCel/MemCardPro-ASM
